@@ -58,18 +58,16 @@
 
 **Μέθοδος διδασκαλίας:** Διαλέξεις, demos, project.
 
-**Ηλεκτρονικά φροντιστήρια / Απορίες:** Αν η απορία που έχετε δεν έχει ήδη απαντηθεί στα issues του github (δεξιά το κουμπάκι issues με το θαυμαστικό), τότε μπορείτε να δημιουργήσετε ένα νέο issue στο οποίο θα θέτετε το ερώτημά σας. Αν η ερώτησή σας είναι κάτι πολύ συγκεκριμένο για την εργασία σας, που δεν αφορά και άλλους συμφοιτητές σας, τότε μπορείτε να στείλετε ένα email στον αντίστοιχο βοηθό του μαθήματος. Ερωτήσεις που απαντώνται ήδη στο Github θα αγνοούνται. Ερωτήσεις μπορείτε να αναρτάτε και στo group του μαθήματος στο Facebook: [Κινητά και Κοινωνικά Μέσα](https://www.facebook.com/groups/1715034925408269/). Ερωτήσεις που σχετίζονται με τη βαθμολόγηση του μαθήματος θα πρέπει να γίνονται στον διδάσκοντα στην ώρα του μαθήματος. Σε κάθε περίπτωση, ο καλύτερος χώρος για να πάρετε σαφή απάντηση σε ερώτημά σας είναι μέσα στην τάξη.
+**Ηλεκτρονικά φροντιστήρια / Απορίες:** Αν η απορία που έχετε δεν έχει ήδη απαντηθεί στα issues του github (δεξιά το κουμπάκι issues με το θαυμαστικό), τότε μπορείτε να δημιουργήσετε ένα νέο issue στο οποίο θα θέτετε το ερώτημά σας. Ερωτήσεις μπορείτε να αναρτάτε και στo group του μαθήματος στο Facebook: [Κινητά και Κοινωνικά Μέσα](https://www.facebook.com/groups/1715034925408269/). Ερωτήσεις που σχετίζονται με τη βαθμολόγηση του μαθήματος θα πρέπει να γίνονται στον διδάσκοντα στην ώρα του μαθήματος. Σε κάθε περίπτωση, ο καλύτερος χώρος για να πάρετε σαφή απάντηση σε ερώτημά σας είναι μέσα στην τάξη. Ερωτήσεις που έχουν απαντηθεί ήδη θα αγνοούνται. 
 
 
 **Βοηθοί μαθήματος:** Χριστίνα Ηλιούδη (Φροντιστήρια): cilioudi@gmail.com, Αλεξανδρος Μερκούρης (e-learning): c14merk@ionio.gr
 
 **Βιβλίο μαθήματος:** 
 
-"Επικοινωνία ανθρώπου - υπολογιστή, 3ή Έκδοση", Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007 
-
-"ΣΥΝΕΡΓΑΤΙΚΗ ΤΕΧΝΟΛΟΓΙΑ", Επιμέλεια ΝΙΚΟΣ ΑΒΟΥΡΗΣ, ΧΑΡΑΛΑΜΠΟΣ ΚΑΡΑΓΙΑΝΝΙΔΗΣ, ΒΑΣΙΛΗΣ ΚΟΜΗΣ, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-232-1, 2009
-
-[Ο Προγραμματισμός της Διάδρασης](htttp://www.pibook.gr)
+* "Επικοινωνία ανθρώπου - υπολογιστή, 3ή Έκδοση", Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007 
+* "ΣΥΝΕΡΓΑΤΙΚΗ ΤΕΧΝΟΛΟΓΙΑ", Επιμέλεια ΝΙΚΟΣ ΑΒΟΥΡΗΣ, ΧΑΡΑΛΑΜΠΟΣ ΚΑΡΑΓΙΑΝΝΙΔΗΣ, ΒΑΣΙΛΗΣ ΚΟΜΗΣ, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-232-1, 2009
+* [Ο Προγραμματισμός της Διάδρασης](htttp://www.pibook.gr)
 
 **Βαθμολογία:** 60% project, 40% Τελική εξέταση
 
@@ -77,11 +75,7 @@
 
 [Building Mobile Experiences](https://www.google.com/url?q=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fbuilding-mobile-experiences-mitx-21w-789x&sa=D&sntz=1&usg=AFrqEzez1v41pEL2myttw5A8iLmoYV2Evw)
 
-[Design and Development of Educational Technology](https://www.google.com/url?q=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fdesign-development-educational-mitx-11-132x&sa=D&sntz=1&usg=AFrqEzd2xzS4qj_G6goccvhLHlcnLCqglQ)
-
 [Computational freakonomics summer school](http://www.google.com/url?q=http%3A%2F%2Fswiki.cc.gatech.edu%2Fcompfreak&sa=D&sntz=1&usg=AFrqEzdOvyyHH3iSvHxRCnAwjeRQAZkL7Q)
-
-[Why massive online courses still matter](http://www.google.com/url?q=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fanant_agarwal_why_massively_open_online_courses_still_matter.html&sa=D&sntz=1&usg=AFrqEzfTwz7QpPk10ZyBbEo7m4-BXtrzQA)
 
 [Code Academy](https://www.codecademy.com/)
 
