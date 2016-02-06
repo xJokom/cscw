@@ -24,6 +24,7 @@
 * [Firebase](https://www.firebase.com): [Mobile chat app](https://www.firebase.com/docs/android/examples.html)
 * [Meteor](https://www.meteor.com/) (e.g. [Slack Clone] (https://scotch.io/courses/building-a-slack-clone-in-meteor-js))
 * [Κινητή εφαρμογή για διαδραστικό βιβλίο](http://www.pibook.gr)
+* [Mobile game development](https://www.udacity.com/courses/ud405)
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
 
