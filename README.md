@@ -17,7 +17,7 @@
 Αν για παράδειγμα δεν έχετε πολύ χρόνο τότε το πιο λογικό είναι να επιλέξετε μια εργασία που έχει μικρό βαθμό δυσκολίας. Πέρα από τα παρακάτω ενδεικτικά θέματα μπορείτε να διαλέξετε άλλο θέμα με βάση τα ενδιαφέροντα σας και μόνο σε συμφωνία με τον διδάσκοντα και τους βοηθούς του μαθήματος. 
 
 
-* [Video analytics](http://www.socialskip.org), 
+* [Video analytics](http://www.socialskip.org) 
 * [Twitter visualization](http://www.flutrack.org)
 * [Interactive mapmaking](http://www.mapito.org)
 * [Android Sports App](https://github.com/andrid/Run2gether)
