@@ -25,6 +25,7 @@
 * [Meteor](https://www.meteor.com/) (e.g. [Slack Clone] (https://scotch.io/courses/building-a-slack-clone-in-meteor-js))
 * [Κινητή εφαρμογή για διαδραστικό βιβλίο](http://www.pibook.gr)
 * [Mobile game development](https://www.udacity.com/courses/ud405)
+* [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού για Microsoft Research Touch Develop](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf)
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
 
