@@ -26,6 +26,7 @@
 * [Κινητή εφαρμογή για διαδραστικό βιβλίο](http://www.pibook.gr)
 * [Mobile game development](https://www.udacity.com/courses/ud405)
 * [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf) για [Microsoft Research Touch Develop](https://www.touchdevelop.com)
+* [Ubicomp course projects](https://github.com/courses-ionio/ubiq)
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
 
