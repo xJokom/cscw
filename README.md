@@ -26,6 +26,7 @@
 * [Κινητή εφαρμογή για διαδραστικό βιβλίο](http://www.pibook.gr)
 * [Mobile game development](https://www.udacity.com/courses/ud405)
 * [Facebook game development](https://developers.facebook.com/docs/games/samples)
+* [Social live TV](http://dev.twitch.tv): [Example Apps](http://www.overwolf.com/twitch-app-challenge/)
 * [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf) για [Microsoft Research Touch Develop](https://www.touchdevelop.com)
 * [Ubicomp course projects](https://github.com/courses-ionio/ubiq)
 
